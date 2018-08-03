@@ -3,6 +3,10 @@ Template for javascript projects.
 
 ### Usage
 
+    newProj=<your project folder>
+    git clone --depth=1 --branch=master https://github.com/sedenardi/template-js.git $newProj
+    cd $newProj
+    rm -rf .git
     NODE_ENV=development npm install
 
 ### Contains
