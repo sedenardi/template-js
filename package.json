@@ -1,0 +1,16 @@
+{
+  "name": "template-js",
+  "version": "1.0.0",
+  "description": "Template for javascript projects",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sedenardi/template-js.git"
+  },
+  "author": "Sanders DeNardi <sedenardi@gmail.com> (http://www.sandersdenardi.com/)",
+  "homepage": "https://github.com/sedenardi/template-js",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^8.2.6",
+    "eslint": "^5.2.0"
+  }
+}
