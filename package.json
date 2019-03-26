@@ -1,6 +1,7 @@
 {
   "name": "template-js",
   "version": "1.0.0",
+  "private": true,
   "description": "Template for javascript projects",
   "repository": {
     "type": "git",
@@ -10,7 +11,7 @@
   "homepage": "https://github.com/sedenardi/template-js",
   "license": "MIT",
   "devDependencies": {
-    "babel-eslint": "^8.2.6",
-    "eslint": "^5.2.0"
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.12.1"
   }
 }
